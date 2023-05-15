@@ -1,1 +1,2 @@
 # Ufourse-Datathon
+This repository contains the code and findings from a Datathon project focused on collecting and analyzing COVID-19 issues. The project involved a team of dedicated individuals who leveraged their technical expertise and leadership skills to analyze COVID-19 data and present their findings to a panel of judges. The team successfully advanced through two rounds of presentations, surpassing 20 competing teams.
